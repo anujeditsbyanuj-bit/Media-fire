@@ -14,7 +14,7 @@ OWNER_ID    = int(os.environ.get("OWNER_ID", "8730393744"))
 # ── Bot branding ───────────────────────────────────────────────────────────────
 BOT_NAME         = os.environ.get("BOT_NAME", "Mediafire Bot")
 ADMIN_NAME       = os.environ.get("ADMIN_NAME", "Anuj")
-CHANNEL_USERNAME = os.environ.get("CHANNEL_USERNAME", "log_ak_bots")
+CHANNEL_USERNAME = os.environ.get("CHANNEL_USERNAME", "@log_ak_bots")
 OWNER_USERNAME   = os.environ.get("OWNER_USERNAME", "@anujedits76")
 
 # ── Download limits ────────────────────────────────────────────────────────────
